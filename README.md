@@ -8,7 +8,7 @@
   - [V2 Proposal](#proposition)
 - [Installation](#installation)
 - [Use](#use)
-- [Progress](#progress)
+- [Management and progress](#management)
 - [Helpful links](#links)
 
 ## Keywords <a class="anchor" id="keywords"></a>
@@ -35,7 +35,7 @@ my website and create a V2.
 
 ### V2 Proposal <a class="anchor" id="proposition"></a>
 
-This new version contains four main sections:
+This new version contains five main sections:
 - Story (About me)
 - Portfolio (GitHub repositories)
 - Read (what I have read)
@@ -79,41 +79,35 @@ Finally, I pretend to have an approach Domain Driven Design (DDD) in order to fo
 
 ## Installation <a class="anchor" id="installation"></a>
 
-Python version : 3.9.4
-
-To get project, launch :
-```
-git clone https://github.com/edaucohe/personal_website.git
-```
-
-To create virtual environment, go into the folder `../personal_website/` and launch :
-```
-python -m venv env  
-```
-
-To activate virtual environment, launch :
-
-- In windows
-```
-source env/Scripts/activate
-```
-- In Linux
-```
-source env/bin/activate
-```
-
-To verify...
+To review.
 
 ## Use <a class="anchor" id="use"></a>
 
-To fill
+To review.
 
-## Progress <a class="anchor" id="progress"></a>
+## Management and progress <a class="anchor" id="management"></a>
 
-To fill
+In order to manage this project, I divide it in three main phases:
+- Phase 1: Implemented index pages and base template.
+- Phase 2: Implemented sections "story" and "portfolio".
+- Phase 3: Implemented sections "read" and "videos".
+
+When phases 1 and 2 will have concluded, I will send project in production.
+
+You can find the progress of every phase in link here below:
+
+https://github.com/edaucohe/personal_website/milestones
+
+Also, I implemented user stories for every phase. 
+You can find the progress of user stories in link here below:
+
+https://github.com/edaucohe/personal_website/issues
+
+Finally, a kanban was implemented to know status of every user story.
+You can find this kanban in link here below: 
+
+https://github.com/users/edaucohe/projects/3
 
 ## Helpful links <a class="anchor" id="links"></a>
 
 Personal website V1: https://edgarcortes.com/
-
-To see website progress: https://github.com/users/edaucohe/projects/3
